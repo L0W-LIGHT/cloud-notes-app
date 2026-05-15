@@ -8,8 +8,8 @@ app = FastAPI()
 # =========================
 
 DB_USER = "postgres"
-DB_PASSWORD = "YOUR_DB_PASSWORD"
-DB_HOST = "YOUR_RDS_ENDPOINT"
+DB_PASSWORD = "nikhil.104"
+DB_HOST = "mydb.cx6k6a02m2ts.ap-southeast-2.rds.amazonaws.com"
 DB_NAME = "appdb"
 
 DATABASE_URL = (
